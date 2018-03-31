@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "awsmobile-cli": "^1.0.21",
+    "create-react-native-app": "^1.0.0",
+    "react-native-cli": "^2.0.1"
+  }
+}
